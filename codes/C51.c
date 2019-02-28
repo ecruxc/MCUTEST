@@ -254,7 +254,7 @@ void main()
 		if(!key_2)
 		{
 			delay(10);
-			while( !key_2 );
+			while( !key_2 );//这是按键技巧	
 
 			sz[0] ++;
 			LCD1602_write(0,0x80);
