@@ -186,41 +186,15 @@
       <FileType>1</FileType>
       <tvExp>1</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>22</ColumnNumber>
+      <ColumnNumber>21</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>214</TopLine>
-      <CurrentLine>214</CurrentLine>
+      <TopLine>245</TopLine>
+      <CurrentLine>257</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\C51.c</PathWithFileName>
       <FilenameWithoutPath>C51.c</FilenameWithoutPath>
     </File>
   </Group>
-
-  <AlienFiles>
-    <PathWithFilename>C:\Users\Chris\Desktop\POF\94 金属探测器 液晶显示1\1-程序\源程序\EEPROM52.H</PathWithFilename>
-    <TopLine>1</TopLine>
-    <CurrentLine>1</CurrentLine>
-    <Constant>0</Constant>
-    <WindowPosition>
-      <length>0</length>
-      <flags>0</flags>
-      <showCmd>0</showCmd>
-      <MinPosition>
-        <xPos>0</xPos>
-        <yPos>0</yPos>
-      </MinPosition>
-      <MaxPosition>
-        <xPos>0</xPos>
-        <yPos>0</yPos>
-      </MaxPosition>
-      <NormalPosition>
-        <Top>0</Top>
-        <Left>0</Left>
-        <Right>0</Right>
-        <Bottom>0</Bottom>
-      </NormalPosition>
-    </WindowPosition>
-  </AlienFiles>
 
   <WinLayout>
     <sActiveDebugView>Default</sActiveDebugView>
@@ -1567,15 +1541,9 @@
       <Documents>
         <Doc>
           <Name>.\C51.c</Name>
-          <ColumnNumber>22</ColumnNumber>
-          <TopLine>214</TopLine>
-          <CurrentLine>214</CurrentLine>
-        </Doc>
-        <Doc>
-          <Name>EEPROM52.H</Name>
-          <ColumnNumber>0</ColumnNumber>
-          <TopLine>1</TopLine>
-          <CurrentLine>1</CurrentLine>
+          <ColumnNumber>21</ColumnNumber>
+          <TopLine>245</TopLine>
+          <CurrentLine>257</CurrentLine>
         </Doc>
       </Documents>
     </MDIGroup>

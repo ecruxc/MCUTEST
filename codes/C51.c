@@ -222,6 +222,8 @@ void proc()
 * 输入 : 无
 * 输出 : 无
 ***********************************************************************/ 
+char sz[2];
+
 void main()
 {
 	uchar H,L;
@@ -240,11 +242,24 @@ void main()
 	shu=H*256+L;
 	if(shu>3000) shu=1500;	//判断读出的数据是否正确    如果不正确    //则重新赋值
 	LCD1602_cls();	   //LCD1602初始化
+
+	sz[1] = 0;
+	sz[0] = '0';
+	LCD1602_write(0,0x80);
+	LCD1602_writebyte(sz);
+	//LCD1602_writebyte("asdfasf");
+
 	while(1)
 	{	
-		key();			   //调用按键控制程序
-		show();			 //调用LCD1602液晶显示程序
-		proc();			 //调用程序处理函数
+		if(!key_2)
+		{
+			delay(10);
+			while( !key_2 );
+
+			sz[0] ++;
+			LCD1602_write(0,0x80);
+			LCD1602_writebyte(sz);
+		}
 	}
 }
 

@@ -3,7 +3,7 @@
 <pre>
 <h1>µVision Build Log</h1>
 <h2>Project:</h2>
-C:\Users\Chris\Desktop\POF\94 Ω ÙÃΩ≤‚∆˜ “∫æßœ‘ æ1\1-≥Ã–Ú\‘¥≥Ã–Ú\Ω ÙÃΩ≤‚.uvproj
+D:\MCUTEST\codes\Ω ÙÃΩ≤‚.uvproj
 Project File Date:  05/09/2016
 
 <h2>Output:</h2>
@@ -11,13 +11,84 @@ Build target 'Target 1'
 assembling STARTUP.A51...
 compiling C51.c...
 linking...
-Program Size: data=24.2 xdata=0 code=1566
+Program Size: data=24.2 xdata=0 code=1568
 creating hex file from "Ω ÙÃΩ≤‚"...
 "Ω ÙÃΩ≤‚" - 0 Error(s), 0 Warning(s).
 Build target 'Target 1'
 assembling STARTUP.A51...
 compiling C51.c...
 linking...
-Program Size: data=24.2 xdata=0 code=1568
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SHOW?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?KEY?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?PROC?C51
+Program Size: data=26.2 xdata=0 code=1587
 creating hex file from "Ω ÙÃΩ≤‚"...
-"Ω ÙÃΩ≤‚" - 0 Error(s), 0 Warning(s).
+"Ω ÙÃΩ≤‚" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling C51.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SHOW?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?KEY?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?PROC?C51
+Program Size: data=26.2 xdata=0 code=1596
+creating hex file from "Ω ÙÃΩ≤‚"...
+"Ω ÙÃΩ≤‚" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling C51.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SHOW?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?KEY?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?PROC?C51
+Program Size: data=26.2 xdata=0 code=1603
+creating hex file from "Ω ÙÃΩ≤‚"...
+"Ω ÙÃΩ≤‚" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling C51.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SHOW?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?KEY?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?PROC?C51
+Program Size: data=26.2 xdata=0 code=1595
+creating hex file from "Ω ÙÃΩ≤‚"...
+"Ω ÙÃΩ≤‚" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling C51.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SHOW?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?KEY?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?PROC?C51
+Program Size: data=26.2 xdata=0 code=1605
+creating hex file from "Ω ÙÃΩ≤‚"...
+"Ω ÙÃΩ≤‚" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling C51.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SHOW?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?KEY?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?PROC?C51
+Program Size: data=26.2 xdata=0 code=1610
+creating hex file from "Ω ÙÃΩ≤‚"...
+"Ω ÙÃΩ≤‚" - 0 Error(s), 3 Warning(s).
