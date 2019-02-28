@@ -6,7 +6,7 @@
 
 sbit LCD1602_rs=P2^5;	//LCD1602控制IO口				 //I/O 定义
 sbit LCD1602_rw=P2^6;	//I/O 定义
-sbit LCD1602_e=P2^7;
+sbit LCD1602_e = P2 ^ 7;
 
 
 sbit key_1=P1^3;	    	//按键控制IO口
