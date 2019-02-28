@@ -1,5 +1,5 @@
 #include<reg52.h>				 //头文件
-#include"eeprom52.h"			  // 调用EEPROM处理程序
+#include"eeprom52.h"			  // 调用EEPROM处理程序 这里不好要看看。
 #define uchar unsigned char		 //宏定义
 #define uint unsigned int		 
 #define LCD1602_dat P0			  //LCD 1602 数据传输IO口
